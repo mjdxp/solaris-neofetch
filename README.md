@@ -1,7 +1,7 @@
 # solaris-neofetch
 Solaris Neofetch Logo
 
-
+```
                    !.                             
                    5?         ^^                  
         .!:        P&.       JP.                  
@@ -17,3 +17,4 @@ Solaris Neofetch Logo
 5@@@@@@@@@@@@@P.                                  
 .!J5G#&&@@@@@@@GJ!^:.                             
      .:^~!7?JY5PGGGGP5YJ?7!~^^::...               
+```
